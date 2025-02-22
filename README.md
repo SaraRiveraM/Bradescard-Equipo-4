@@ -1,7 +1,7 @@
 # Bradescard-Equipo-4
 Soluciones financieras para el banco brasileño Bradescard.
 
-## Qué debo hacer cada vez que vuelva a trabajar en mi "branch (todo desde la terminal de tu VsCode"
+## ¿Qué debo hacer cada vez que vuelva a trabajar en mi "branch"? (Todo desde la terminal de tu VsCode)
 ----------------------
 ```git
 git fetch .p origin -- Actualiza los cambios hechos en el repositorio
